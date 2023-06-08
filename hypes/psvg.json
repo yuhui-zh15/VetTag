@@ -1,0 +1,6 @@
+{
+  "data_dir": "/path/to/data/psvg/",
+  "encoder_path": "/path/to/data/encoder.json",
+  "prefix": "psvg_oneline",
+  "label_size": 0
+}

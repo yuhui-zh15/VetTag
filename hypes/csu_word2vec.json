@@ -1,0 +1,7 @@
+{
+  "data_dir": "/path/to/data/csu/",
+  "encoder_path": "/path/to/data/encoder.json",
+  "prefix": "csu",
+  "label_size": 4577,
+  "wordvec_path": "/path/to/data/wordvec.npy"
+}

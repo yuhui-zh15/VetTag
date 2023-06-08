@@ -1,0 +1,6 @@
+{
+  "data_dir": "/path/to/data/pp/",
+  "encoder_path": "/path/to/data/encoder.json",
+  "prefix": "pp",
+  "label_size": 4577
+}
